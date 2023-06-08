@@ -4,7 +4,6 @@ import './Game.css';
 const Game = ({
   veryRetry,
   pickedCategory,
-  pickedWord,
   letters,
   guessedLetters,
   wrongLetters,
